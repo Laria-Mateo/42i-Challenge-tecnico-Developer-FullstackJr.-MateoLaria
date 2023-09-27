@@ -35,21 +35,21 @@ El segundo retorno se da a traves de realizar un ciclo iterativo "for" que recor
 
     npx jest
 
-# Interfaz Web
+# Interfaz Web (Extra)
 -Para esta interfaz web al ser sencilla utilize el maquetado de la pagina web en el archivo llamado index.html.<br>
 -Se creo una funcion en cada hoja javascript de los ejercicios, Smallest Difference y Non-Constructible Change para ejecutar una prueba y asi obtener los resultados que se muestran en la web.<br>
 -Para darle diseño utilize Boostrap y estilos CSS.<br>
 
-## Para ejecutar Pagina Web (Extra)
+## Para ejecutar Pagina Web 
 
-### Forma 1
+## Forma 1
     Click derecho sobre index.html<br>
     Click izquierdo sobre Show in Browser<br>
 
-### Forma 2
+## Forma 2
     Ir a la carpeta donde esta guardado el proyecto y abrir el archivo index.html con un navegador.
 
-### Forma 3
+## Forma 3
     En un navegador abrir una pestaña en blanco, luego presionar las teclas ctrl + o, buscar el archivo index.html y abrirlo.
 
 
