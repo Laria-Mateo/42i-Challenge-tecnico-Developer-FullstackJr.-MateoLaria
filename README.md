@@ -43,14 +43,14 @@ El segundo retorno se da a traves de realizar un ciclo iterativo "for" que recor
 ## Para ejecutar Pagina Web 
 
 ## Forma 1
-    Click derecho sobre index.html<br>
-    Click izquierdo sobre Show in Browser<br>
+-Click derecho sobre index.html<br>
+-Click izquierdo sobre Show in Browser<br>
 
 ## Forma 2
-    Ir a la carpeta donde esta guardado el proyecto y abrir el archivo index.html con un navegador.
+-Ir a la carpeta donde esta guardado el proyecto y abrir el archivo index.html con un navegador.
 
 ## Forma 3
-    En un navegador abrir una pestaña en blanco, luego presionar las teclas ctrl + o, buscar el archivo index.html y abrirlo.
+-En un navegador abrir una pestaña en blanco, luego presionar las teclas ctrl + o, buscar el archivo index.html y abrirlo.
 
 
 
