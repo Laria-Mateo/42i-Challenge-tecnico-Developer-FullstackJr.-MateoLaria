@@ -1,0 +1,15 @@
+{
+  "name": "42i-challenge-tecnico-developer-fullstackjr.-mateolaria",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Non-Constructible_Change.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
